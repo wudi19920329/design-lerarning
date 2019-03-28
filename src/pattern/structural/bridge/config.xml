@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>pattern.structural.bridge.JpgImage</className>
+    <!--ConcreteImplementor-->
+    <className>pattern.structural.bridge.WindowsImpl</className>
+</config>
