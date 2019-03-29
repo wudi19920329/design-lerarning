@@ -21,7 +21,7 @@ public class XmlUtil {
             // 创建文档对象
             DocumentBuilderFactory dFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder builder = dFactory.newDocumentBuilder();
-            Document doc = builder.parse(XmlUtil.class.getResourceAsStream("config.xml"));
+            Document doc = builder.parse(XmlUtil.class.getResourceAsStream("config1.xml"));
             Node classNode = null;
             NodeList nl = doc.getElementsByTagName("className");
             if (args.equals("image")) {

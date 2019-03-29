@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>pattern.structural.proxy.simple01.SearchProxy</className>
+</config>
