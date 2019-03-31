@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+<className>pattern.behavioural.command.simple01.HelpCommand</className>
+<className>pattern.behavioural.command.simple01.MinimizeCommand</className>
+</config>
